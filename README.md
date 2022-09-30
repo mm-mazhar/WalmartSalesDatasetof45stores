@@ -1,4 +1,4 @@
-# Walmart Sales Dataset of 45stores
+# Walmart Sales Dataset of 45 stores
 * [go to KAGGLE](https://www.kaggle.com/code/mazhar01/walmart-sales-dataset-of-45-stores)
 - This involves pandas, seaborn, plotly
 
