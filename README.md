@@ -4,8 +4,8 @@
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://i.imgur.com/fnhCve6.jpg" width="400px" height=225px/></td>
-    <td><img src="https://i.imgur.com/G45d60m.jpg" width="400px" height=225px/></td>
-    <td><img src="https://i.imgur.com/CQmLdJq.jpg" width="400px" height=225px/></td>
+    <td><img src="https://i.imgur.com/fnhCve6.jpg" width="200px" height=225px/></td>
+    <td><img src="https://i.imgur.com/G45d60m.jpg" width="200px" height=225px/></td>
+    <td><img src="https://i.imgur.com/CQmLdJq.jpg" width="200px" height=225px/></td>
   </tr>
 </table>
